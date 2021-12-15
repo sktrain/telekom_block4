@@ -1,0 +1,15 @@
+Mitarbeiterverwaltung testen:
+
+1) KonstruktorTest: Wurde die Mitarbeiterverwaltung vernünftig erzeugt, 
+d.h. die interne Map ist nicht leer (man kann die getMap-Methode nutzen)
+
+2) getGehaltssumme()-Methode testen, idealerweise prüfen, ob die 
+richtige Summe berechnet wird 
+	
+3) getList()-Methode testen: 
+   a) wird korrekt sortiert
+   b) was passiert, wenn Null für den Comparator übergeben wird
+
+4) Testen der Methoden für das Hinzufügen, Löschen und Abfragen 
+eines Mitarbeiters
+Auch auf die Exceptions testen.
